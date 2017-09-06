@@ -1,0 +1,37 @@
+body {
+<<<<<<< HEAD
+  background-color: white;
+  font-family: serif;
+=======
+
+  font-family: sans-serif;
+  background: url(../images/prison-background2.jpg) no-repeat center center fixed;
+  background-size: cover;
+  color: red;
+>>>>>>> prison
+}
+
+h1 {
+  font-size: 50px;
+  text-align: center;
+}
+h2 {
+  font-size: 40px;
+  text-align: center;a
+}
+
+p{
+  font-size: 20px;
+}
+
+ul {
+  font-size: 30px;
+}
+
+.navigation {
+ background-color: white;
+ opacity: 0.4;
+ outline-color: black;
+ outline-width: thin;
+
+}
